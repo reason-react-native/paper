@@ -1,115 +1,119 @@
-'use strict';
 
+var ActivityIndicator = /* alias */0;
 
-var ActivityIndicator;
+var Appbar = /* alias */0;
 
-var Appbar;
+var Avatar = /* alias */0;
 
-var Avatar;
+var Banner = /* alias */0;
 
-var Banner;
+var BottomNavigation = /* alias */0;
 
-var BottomNavigation;
+var Button = /* alias */0;
 
-var Button;
+var Caption = /* alias */0;
 
-var Caption;
+var Badge = /* alias */0;
 
-var Badge;
+var Card = /* alias */0;
 
-var Card;
+var Checkbox = /* alias */0;
 
-var Checkbox;
+var Chip = /* alias */0;
 
-var Chip;
+var Dialog = /* alias */0;
 
-var Dialog;
+var Divider = /* alias */0;
 
-var Divider;
+var Drawer = /* alias */0;
 
-var Drawer;
+var FAB = /* alias */0;
 
-var FAB;
+var Headline = /* alias */0;
 
-var Headline;
+var IconButton = /* alias */0;
 
-var IconButton;
+var Modal = /* alias */0;
 
-var Modal;
+var Surface = /* alias */0;
 
-var Surface;
+var PaperProvider = /* alias */0;
 
-var PaperProvider;
+var Paragraph = /* alias */0;
 
-var Paragraph;
+var Portal = /* alias */0;
 
-var Portal;
+var ProgressBar = /* alias */0;
 
-var ProgressBar;
+var RadioButton = /* alias */0;
 
-var RadioButton;
+var Subheading = /* alias */0;
 
-var Subheading;
+var Switch = /* alias */0;
 
-var Switch;
+var Snackbar = /* alias */0;
 
-var Snackbar;
+var $$Text = /* alias */0;
 
-var $$Text;
+var TextInput = /* alias */0;
 
-var TextInput;
+var ThemeProvider = /* alias */0;
 
-var ThemeProvider;
+var Title = /* alias */0;
 
-var Title;
+var TouchableRipple = /* alias */0;
 
-var TouchableRipple;
+var HelperText = /* alias */0;
 
-var HelperText;
+var Searchbar = /* alias */0;
 
-var Searchbar;
+var List = /* alias */0;
 
-var List;
+var ToggleButton = /* alias */0;
 
-var ToggleButton;
+var Icon = /* alias */0;
 
-var Icon;
+var DataTable = /* alias */0;
 
-exports.ActivityIndicator = ActivityIndicator;
-exports.Appbar = Appbar;
-exports.Avatar = Avatar;
-exports.Banner = Banner;
-exports.BottomNavigation = BottomNavigation;
-exports.Button = Button;
-exports.Caption = Caption;
-exports.Badge = Badge;
-exports.Card = Card;
-exports.Checkbox = Checkbox;
-exports.Chip = Chip;
-exports.Dialog = Dialog;
-exports.Divider = Divider;
-exports.Drawer = Drawer;
-exports.FAB = FAB;
-exports.Headline = Headline;
-exports.IconButton = IconButton;
-exports.Modal = Modal;
-exports.Surface = Surface;
-exports.PaperProvider = PaperProvider;
-exports.Paragraph = Paragraph;
-exports.Portal = Portal;
-exports.ProgressBar = ProgressBar;
-exports.RadioButton = RadioButton;
-exports.Subheading = Subheading;
-exports.Switch = Switch;
-exports.Snackbar = Snackbar;
-exports.$$Text = $$Text;
-exports.TextInput = TextInput;
-exports.ThemeProvider = ThemeProvider;
-exports.Title = Title;
-exports.TouchableRipple = TouchableRipple;
-exports.HelperText = HelperText;
-exports.Searchbar = Searchbar;
-exports.List = List;
-exports.ToggleButton = ToggleButton;
-exports.Icon = Icon;
+export {
+  ActivityIndicator ,
+  Appbar ,
+  Avatar ,
+  Banner ,
+  BottomNavigation ,
+  Button ,
+  Caption ,
+  Badge ,
+  Card ,
+  Checkbox ,
+  Chip ,
+  Dialog ,
+  Divider ,
+  Drawer ,
+  FAB ,
+  Headline ,
+  IconButton ,
+  Modal ,
+  Surface ,
+  PaperProvider ,
+  Paragraph ,
+  Portal ,
+  ProgressBar ,
+  RadioButton ,
+  Subheading ,
+  Switch ,
+  Snackbar ,
+  $$Text ,
+  TextInput ,
+  ThemeProvider ,
+  Title ,
+  TouchableRipple ,
+  HelperText ,
+  Searchbar ,
+  List ,
+  ToggleButton ,
+  Icon ,
+  DataTable ,
+  
+}
 /* No side effect */
